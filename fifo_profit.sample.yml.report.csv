@@ -1,0 +1,7 @@
+contract_no,transaction_date,scrip,sell_or_buy,quantity,rate,amount,balance_quantity,sell_type,buy_date,buy_amount,buy_rate,PL,ac_daily_total,PL_intra_daily_transaction,PL_intra_daily_total,PL_delivery_transaction,PL_delivery_daily_total
+4,2020-01-01,SCRIP1,BUY,100,15.0,1500,100, , , , , , , , , , 
+4,2020-01-01,SCRIP1,BUY,100,15.0,1500,200, , , , , , , , , , 
+4,2020-01-01,SCRIP1,SELL,50,30.0,1500,150,INTRA_DAY,2020-01-01,750.0,15.0,750.0,-1500.0,750.0,750.0, , 
+5,2020-01-02,SCRIP1,SELL,50,40.0,6000,100,DELIVERY,2020-01-01,750.0,15.0,1250.0, , , , , 
+5,2020-01-02,SCRIP1,SELL,100,40.0,6000,0,DELIVERY,2020-01-01,1500.0,15.0,2500.0,6000.0, , ,3750.0,3750.0
+6,2020-01-03,SCRIP1,BUY,100,15.0,1500,100, , , , , ,-1500.0, , , , 
