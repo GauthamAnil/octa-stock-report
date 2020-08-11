@@ -10,5 +10,5 @@ Key features:
 1. Also includes info about the buys that are being sold.
 
 Missing features:
-2. LIFO logic
-2. STT tax. The value is accepted, not used.
+1. LIFO logic
+1. STT tax. The value is accepted, not used.
